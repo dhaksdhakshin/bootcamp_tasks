@@ -76,21 +76,6 @@
 
 - AI must be used responsibly to avoid harm.
 
-## Bonus Task: Data Science Career Paths
-
-### What I Learned:
-
-- Some roles focus on coding (ML Engineer), while others focus on insights (Data Analyst).
-
-### Challenges:
-
-- Differentiating similar roles.
-- Job responsibilities vary across companies.
-
-### Final Thought:
-
-- I need to explore which career path suits me best.
-
 ## Overall Reflection
 
 ### What I Gained:
